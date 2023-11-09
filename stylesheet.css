@@ -1,0 +1,12 @@
+a{
+    color: brown;
+    text-decoration: none;
+}
+.btn:hover {
+    background: #f76815;
+    color: #333;
+}
+.btn-light{
+    background: #ff3434;
+    color: #333;
+}
